@@ -43,3 +43,9 @@ git diff <source-branch> <target-branch> // u/ menampilkan conflicts diantara br
 git diff --base <nama-file> // Untuk melihat conflicts dengan file dasar \
 git rebase master // untuk menerapkan ulang commit di branch yang lain \
 git revert // Merevisi commit dengan git revert
+  
+### Aturan Commit
+feat: untuk memperbaiki ketika menambah fitur baru \
+fix: untuk memperbaiki ketika ada bug \
+docs: untuk mengupdate dokumentasi \
+style: untuk memperbaiki ccs atau style \
