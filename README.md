@@ -20,6 +20,7 @@ git log // cek perubahan di log \
 ### Baca perubahan 
 cd /var/www/html/aplikasi/ \
 git log \
+git log --oneline
 
 ### Buat cabang aplikasi 
 git checkout -b cabangAplikasi \
