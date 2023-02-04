@@ -2,7 +2,7 @@
 Di web github, login dan create repository baru sesuai nama aplikasi Di komputer \
 cd /var/www/html/aplikasi/ \
 git init \
-git remote add origin https://github.com/rikyperdana/aplikasi.git \
+git remote add origin https://github.com/laodefardin/aplikasi.git \
 git remote -v \
 git add . \
 git commit -m 'Upload pertama' \
