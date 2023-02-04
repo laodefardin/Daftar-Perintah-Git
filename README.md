@@ -28,7 +28,7 @@ git push --set-upstream origin cabangAplikasi // usulkan pull request ke master 
 Buka web github/repo terima confirm pull request dan merge ke master \
 Delete branch yg sudah disetujui kalau tidak diperlukan lagi \
 git checkout master // kembali ke repo master \
-git pull // tarik semua pembaharuan dari server \
+git pull origin master // tarik semua pembaharuan dari server \
 git branch --delete cabangAplikasi \
 
 ### Kembali ke commit sebelumnya 
